@@ -1,0 +1,7 @@
+{
+  "name": "물오른 팜 (Smart Farm Management)",
+  "description": "IoT 기반 스마트 양식장 통합 관제 시스템. 실시간 수질 모니터링, AI 성장 예측, 장비 원격 제어 및 긴급 알림 기능을 제공합니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
